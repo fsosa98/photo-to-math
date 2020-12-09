@@ -4,17 +4,19 @@
 Two modes of use:
 
 ### 1. Run the program with a trained model
+In src directory run:
 ```bash
-python src/app.py 2 path_to_trained_model
+python app.py 2 path_to_trained_model
 ```
 Default:
 ```bash
-python src/app.py 2 trained_model.h5
+python app.py 2 trained_model.h5
 ```
 
 ### 2. Run the program with the data set
+In src directory run:
 ```bash
-python src/app.py 1 path_to_train_data
+python app.py 1 path_to_train_data
 ```
 
 I used [this](https://www.kaggle.com/xainano/handwrittenmathsymbols) data to train model.
