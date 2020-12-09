@@ -5,16 +5,16 @@ Two modes of use:
 
 ### 1. Run the program with a trained model
 ```bash
-python3 app.py 2 path_to_trained_model
+python src/app.py 2 path_to_trained_model
 ```
 Default:
 ```bash
-python3 app.py 2 trained_model.h5
+python src/app.py 2 trained_model.h5
 ```
 
 ### 2. Run the program with the data set
 ```bash
-python3 app.py 1 path_to_train_data
+python src/app.py 1 path_to_train_data
 ```
 
 I used [this](https://www.kaggle.com/xainano/handwrittenmathsymbols) data to train model.
