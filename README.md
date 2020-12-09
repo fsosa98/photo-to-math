@@ -31,7 +31,7 @@ train_data/ <br />
     └── image1000.png <br />
 
 ## Usage
-Go to http://127.0.0.1:5000/<br />
+Go to http://127.0.0.1:5000/ <br />
 Clik the "Browse..." button and select an image.<br />
 After selecting the image clik the "Calculate" button.<br />
 The result will be displayed in a new line.
